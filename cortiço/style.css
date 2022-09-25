@@ -29,12 +29,12 @@ header {
     font-size: 34px;
     line-height: 41px;
 }
-
+ 
 nav>a {
     text-decoration: none;
     color: var(--cor2);
 }
-
+ 
 nav {
     height: 80px;
     width: 100%;
@@ -88,14 +88,14 @@ nav {
     height: 220px;
 }
 
-.f1{
+.f1 {
     line-height: 28px;
     text-align: center;
     border: thin var(--cor1) solid;
     padding: 20px;
 }
 
-.pai{
+.pai {
     display: flex;
     flex-direction: row;
     padding: 30px;
@@ -121,13 +121,13 @@ nav {
     height: 490px;
 }
 
-.d4{
+.d4 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
 
-.d4 img{
+.d4 img {
     width: 160px;
     height: 170px;
     border-top-left-radius: 100%;
@@ -136,7 +136,7 @@ nav {
     border-bottom-left-radius: 100%;
 }
 
-.d4 figure{
+.d4 figure {
     width: 160px;
     height: 180px;
     line-height: 28px;
@@ -144,7 +144,7 @@ nav {
     text-align: center;
 }
 
-.d5{
+.d5 {
     text-align: justify;
     align-items: center;
     justify-content: center;
@@ -157,7 +157,7 @@ nav {
     box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.20);
 }
 
-.f2{
+.f2 {
     line-height: 28px;
     text-align: center;
     border: thin var(--cor1) solid;
